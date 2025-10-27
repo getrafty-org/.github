@@ -13,11 +13,11 @@
 
 ## About
 
-If you've ever caught yourself wondering how things like distributed file systems work or what kind of magic keeps your favorite RPC library talking across the network — you're in the right place.
+If you've ever caught yourself wondering how things like distributed file systems work or what kind of magic keeps your favorite RPC library talking across the network - you're in the right place.
 
-[Getrafty](https://getrafty.org/threads/github.com@sidosera/intro/) is an attempt to make those big, intimidating systems feel small and approachable again. I'm occasionally putting together a series of tiny, minimalistic tasks that walk a reader through basic concepts while building our own toy version from scratch — step by step, no black boxes, no hand-waving.
+[Getrafty](https://getrafty.org/threads/github.com@sidosera/intro/) is an attempt to make those big, intimidating systems feel small and approachable again. I'm occasionally putting together a series of tiny, minimalistic tasks that walk a reader through basic concepts while building our own toy version from scratch - step by step, no black boxes, no hand-waving.
 
-Think of it as a guided tour through the internals of distributed systems — with code you can actually run and break.
+Think of it as a guided tour through the internals of distributed systems - with code you can actually run and break.
 
 ## Contributing and Developing
 
