@@ -1,3 +1,16 @@
+<!-- LOGO -->
+<h1>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/getrafty-org/.github/refs/heads/main/profile/logo.svg" alt="Logo" width="128">
+    <br>Getrafty
+  </p>
+</h1>
+<p align="center">
+  Back to the internals.
+  <br />
+  <a href="https://getrafty.org/threads/github.com@sidosera/intro/">Take a Tour</a>
+</p>
+
 ## About
 
 If you've ever caught yourself wondering how things like distributed file systems work or what kind of magic keeps your favorite RPC library talking across the network — you're in the right place.
